@@ -137,6 +137,7 @@ F_2 &= 5 \cdot 100 + 0 \cdot 90 + 4 \cdot 140 + 8 \cdot 130 + 13 \cdot 140 + 12 
 $$
 
 **Для вершины $x_3$:**
+
 $$
 \begin{aligned}
 F_3 &= 9 \cdot 100 + 4 \cdot 90 + 0 \cdot 140 + 6 \cdot 130 + 11 \cdot 140 + 10 \cdot 70 + 5 \cdot 50 + 10 \cdot 70 \\
@@ -145,6 +146,7 @@ F_3 &= 9 \cdot 100 + 4 \cdot 90 + 0 \cdot 140 + 6 \cdot 130 + 11 \cdot 140 + 10 
 $$
 
 **Для вершины $x_4$:**
+
 $$
 \begin{aligned}
 F_4 &= 13 \cdot 100 + 8 \cdot 90 + 6 \cdot 140 + 0 \cdot 130 + 7 \cdot 140 + 4 \cdot 70 + 9 \cdot 50 + 14 \cdot 70 \\
@@ -153,6 +155,7 @@ F_4 &= 13 \cdot 100 + 8 \cdot 90 + 6 \cdot 140 + 0 \cdot 130 + 7 \cdot 140 + 4 \
 $$
 
 **Для вершины $x_5$:**
+
 $$
 \begin{aligned}
 F_5 &= 18 \cdot 100 + 13 \cdot 90 + 11 \cdot 140 + 7 \cdot 130 + 0 \cdot 140 + 5 \cdot 70 + 10 \cdot 50 + 19 \cdot 70 \\
@@ -161,6 +164,7 @@ F_5 &= 18 \cdot 100 + 13 \cdot 90 + 11 \cdot 140 + 7 \cdot 130 + 0 \cdot 140 + 5
 $$
 
 **Для вершины $x_6$:**
+
 $$
 \begin{aligned}
 F_6 &= 17 \cdot 100 + 12 \cdot 90 + 10 \cdot 140 + 4 \cdot 130 + 5 \cdot 140 + 0 \cdot 70 + 4 \cdot 50 + 14 \cdot 70 \\
@@ -169,6 +173,7 @@ F_6 &= 17 \cdot 100 + 12 \cdot 90 + 10 \cdot 140 + 4 \cdot 130 + 5 \cdot 140 + 0
 $$
 
 **Для вершины $x_7$:**
+
 $$
 \begin{aligned}
 F_7 &= 13 \cdot 100 + 8 \cdot 90 + 5 \cdot 140 + 9 \cdot 130 + 10 \cdot 140 + 4 \cdot 70 + 0 \cdot 50 + 6 \cdot 70 \\
@@ -177,6 +182,7 @@ F_7 &= 13 \cdot 100 + 8 \cdot 90 + 5 \cdot 140 + 9 \cdot 130 + 10 \cdot 140 + 4 
 $$
 
 **Для вершины $x_8$:**
+
 $$
 \begin{aligned}
 F_8 &= 8 \cdot 100 + 6 \cdot 90 + 10 \cdot 140 + 14 \cdot 130 + 19 \cdot 140 + 14 \cdot 70 + 6 \cdot 50 + 0 \cdot 70 \\
